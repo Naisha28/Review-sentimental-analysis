@@ -5,7 +5,6 @@
 This project utilizes the `transformers` library to perform emotion classification on text using a pre-trained model. It takes user input, analyzes emotions for each sentence, and visualizes the results using bar graphs. Additionally, it scrapes product reviews from a given website and determines whether a product is recommended based on the sentiment analysis of the reviews.
 
 ## Features
-- Uses `bhadresh-savani/distilbert-base-uncased-emotion` model for emotion classification.
 - Splits input text into sentences for detailed analysis.
 - Displays emotions with confidence scores.
 - Generates bar charts for each sentence to visualize emotions.
